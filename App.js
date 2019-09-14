@@ -65,7 +65,7 @@ export default class App extends React.Component {
       alert("Player 1 is the winner!");
       this.initializeGame();
     } else if (winner == -1) {
-      alert("Player 2 is the win   ner!");
+      alert("Player 2 is the winner!");
       this.initializeGame();
     }
 
